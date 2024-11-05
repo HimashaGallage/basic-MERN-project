@@ -1,0 +1,61 @@
+[{
+  "id": "cognitive-building-bricks",
+  "categoryName": "Business/Company",
+  "contestName": "Cognitive Building Bricks",
+  "names": [
+    {
+      "id": "mind-assembly",
+      "name": "Mind Assembly",
+      "timestamp": {
+        "$date": "2024-11-02T18:44:25.815Z"
+      }
+    },
+    {
+      "id": "brain-scaffold",
+      "name": "Brain Scaffold",
+      "timestamp": {
+        "$date": "2024-11-02T18:44:25.815Z"
+      }
+    }
+  ]
+},
+{
+  "id": "educating-people-about-sustainable-food-production",
+  "categoryName": "Magazine/Newsletter",
+  "contestName": "Educating people about sustainable food production",
+  "names": []
+},
+{
+  "id": "big-data-analytics-for-cash-circulation",
+  "categoryName": "Software Component",
+  "contestName": "Big Data Analytics for Cash Circulation",
+  "names": [
+    {
+      "id": "cash-view",
+      "name": "Cash View",
+      "timestamp": {
+        "$date": "2024-11-02T18:44:25.815Z"
+      }
+    },
+    {
+      "id": "currency-map",
+      "name": "Currency Map",
+      "timestamp": {
+        "$date": "2024-11-02T18:44:25.815Z"
+      }
+    },
+    {
+      "id": "cash-board",
+      "name": "Cash Board",
+      "timestamp": {
+        "$date": "2024-11-02T18:44:25.815Z"
+      }
+    }
+  ]
+},
+{
+  "id": "free-programming-books",
+  "categoryName": "Website",
+  "contestName": "Free programming books",
+  "names": []
+}]
